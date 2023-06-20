@@ -6,6 +6,9 @@ The user can login with github and post your moments with photos and description
 ## Interface
 ![Presentation](https://github.com/whalyf/spacetime/blob/master/appDescription/ezgif.com-gif-maker.gif)
 
+## Next Steps
+1 - Implements the page to see each memory completly and it's description.
+
 
 ## Getting Started
 
